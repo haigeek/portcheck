@@ -1,2 +1,3 @@
 portcheck*
 .DS_Store
+/dist/
