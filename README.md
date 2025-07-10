@@ -13,4 +13,4 @@
 
 输入要检测的端口，点击检测即可完成检测。
 
-![portcheck 检测](https:/haigeek.me:8443/pic?ossId=2025/07/06/EwkzIj.png)
+![portcheck 检测](https://haigeek.me:8443/pic?ossId=2025/07/06/EwkzIj.png)
